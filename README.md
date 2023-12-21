@@ -3,4 +3,7 @@ Disc-Less (Discrimination Less) is a Python prototype designed for discriminatio
 
 
 # Organization of the repository
-to be added soon  . 
+* Model.py: This Python file encompasses a simple object-oriented programming (OOP) structure designed for managing the primary objects of the model.
+* DiscLess_Gekko: Within this Python file, you'll find all the functions and algorithms crucial to the system.
+* Data: This folder houses both the dataset and the input queries file.
+* Results: In this folder, you'll find the resultant data.
